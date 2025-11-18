@@ -253,9 +253,8 @@ Untuk pertanyaan atau issues:
 
 ---
 
-Note: Pastikan untuk tidak commit environment variables ke public repository!
+Note: `Pastikan untuk tidak commit environment variables ke public repository!`
 
-```
 
 ## 7. TypeScript Configuration
 
