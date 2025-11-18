@@ -47,8 +47,8 @@ Backend payment gateway untuk integrasi Xendit yang dapat digunakan di berbagai 
 
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
-   cd xendit-payment-gateway
+   git clone https://github.com/daffadevhosting/backend-xendit-nextjs.git
+   cd backend-xendit-nextjs
 
 
 1. Install dependencies
