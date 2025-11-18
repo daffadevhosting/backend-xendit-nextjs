@@ -1,3 +1,6 @@
+# Xendit Payment Gateway - Next.js
+---
+
 ```markdown
 lib/
   ├── xendit/
@@ -18,7 +21,6 @@ types/
   ├── payment.ts
   └── common.ts
 ```
-# Xendit Payment Gateway - Next.js
 
 Backend payment gateway untuk integrasi Xendit yang dapat digunakan di berbagai platform e-commerce.
 
